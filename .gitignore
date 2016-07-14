@@ -3,6 +3,8 @@
 *.a
 *.so
 
+imgobjsync
+
 # Folders
 _obj
 _test
